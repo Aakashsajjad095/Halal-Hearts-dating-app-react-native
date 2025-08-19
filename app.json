@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "datingapp",
-    "slug": "datingapp",
+    "name": "Halal Hearts",
+  "slug": "halal-hearts",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "datingapp",
+    "scheme": "halal-hearts",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -33,7 +33,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-audio"
     ],
     "experiments": {
       "typedRoutes": true
