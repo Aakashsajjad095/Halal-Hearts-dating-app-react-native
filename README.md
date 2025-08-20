@@ -1,4 +1,22 @@
-# Halal Hearts 🕌❤️📱
+
+<h1 align="center">
+<img
+		width="250"
+		alt="Halal Hearts Dating App React Native"
+		src="https://github.com/user-attachments/assets/dc859340-a38f-461a-9683-07d737bcf331">
+</h1>
+<h3 align="center">
+	Halal Hearts Dating App React Native
+</h3>
+
+<p align="center">
+	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Aakashsajjad095/Halal-Hearts-dating-app-react-native.svg?style=flat-square">
+	<img alt="Licence" src="https://img.shields.io/github/license/Aakashsajjad095/Halal-Hearts-dating-app-react-native.svg?style=flat-square">
+	<img alt="Star" src="https://img.shields.io/badge/you%20like%20%3F-STAR%20ME-blue.svg?style=flat-square">
+</p>
+
+
+# Halal Hearts Dating App React Native 🕌❤️📱
 
 Welcome to Halal Hearts – a modern matchmaking app for Muslims rooted in Islamic values. Whether you're searching for a serious connection or exploring compatibility, Halal Hearts is your trusted space for finding the right match, the halal way.
 
@@ -84,7 +102,7 @@ Notifications 🔔: Get updates for match requests, quiz invitations, and new me
 ```
 git clone https://github.com/Aakashsajjad095/Halal-Hearts-dating-app-react-native.git
 
-cd QuizMaster-React-Native-Expo-App
+cd Halal-Hearts-dating-app-react-native
 
 1. Install dependencies
  ```
