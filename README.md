@@ -16,6 +16,7 @@
 </p>
 
 
+
 # Halal Hearts Dating App React Native 🕌❤️📱
 
 Welcome to Halal Hearts – a modern matchmaking app for Muslims rooted in Islamic values. Whether you're searching for a serious connection or exploring compatibility, Halal Hearts is your trusted space for finding the right match, the halal way.
@@ -50,6 +51,13 @@ Real-time quiz flow with start → complete → results
 Leaderboard to compare compatibility & fun scores
 
 Notifications 🔔: Get updates for match requests, quiz invitations, and new messages instantly.
+
+
+ ## 🎥 Watch the Demo
+
+[![Watch the video](https://img.youtube.com/vi/vYEtuWUsPlc/hqdefault.jpg)](https://youtu.be/vYEtuWUsPlc)
+
+> Click the image above to watch the full video demo on YouTube.
 
 
 # Halal Hearts Screenshots 📱
